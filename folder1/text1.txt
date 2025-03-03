@@ -1,1 +1,1 @@
-abc some random change done
+abc this should cause a conflict 
